@@ -9,6 +9,7 @@ gem 'pg', :group => :development
 group :development do
   gem 'taps'
   gem 'rvm'
+  gem 'pg'
 end
 
 
